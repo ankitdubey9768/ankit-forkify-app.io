@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
-    "postinstall":"webpack --mode development",
+    "postinstall":"webpack --mode production",
     "start": "node server.js"
   },
   "author": "Ankit Dubey",
