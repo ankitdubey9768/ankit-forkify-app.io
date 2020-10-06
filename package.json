@@ -11,13 +11,13 @@
   "author": "Ankit Dubey",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
     "babel-polyfill": "^6.26.0",
     "express": "^4.17.1",
     "fractional": "^1.0.0",
