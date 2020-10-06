@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
-    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js"
+    "start": "node server.js"
   },
   "author": "Ankit Dubey",
   "license": "ISC",
