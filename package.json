@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
-    "postinstall": "webpack -p",
-    "start": "node server.js"
+    "start": "node server.js webpack-p"
   },
   "author": "Ankit Dubey",
   "license": "ISC",
